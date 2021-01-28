@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "6011b0018b2a24053ce70b73",
+        "country": "Australian Dollar (AUD)",
+        "key": "AUD"
+    },
+    {
+        "_id": "6011b00b8b2a24053ce70b74",
+        "country": "Canadian Dollar (CAD)",
+        "key": "CAD"
+    },
+    {
+        "_id": "6011b0158b2a24053ce70b75",
+        "country": "Indian Rupee (INR)",
+        "key": "INR"
+    },
+    {
+        "_id": "6011b01f8b2a24053ce70b76",
+        "country": "Japanese Yen (JPY)",
+        "key": "JPY"
+    }
+]
