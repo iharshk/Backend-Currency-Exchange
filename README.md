@@ -7,3 +7,6 @@
 3. Run `npm run start:seed`, it will create entries of all the countries in database automatically.
 
 4. Run `npm start`, It will start the server at port `5000` and will also create database connection.
+
+# .env
+Although it should not have been pushed into the repository, but I had done so for the convenience. 
